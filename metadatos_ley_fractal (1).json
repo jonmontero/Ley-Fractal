@@ -1,0 +1,65 @@
+{
+    "titulo": "Ley Fractal del Tiempo Cu\u00e1ntico",
+    "autor": "Investigador Principal",
+    "descripcion": "Teor\u00eda de la estructura fractal del tiempo, validaci\u00f3n matem\u00e1tica y emp\u00edrica con datos del CMB, LISA y Euclid.",
+    "version": "Final",
+    "fecha_publicacion": "2025-03-07",
+    "repositorios": {
+        "GitHub": "https://github.com/jonmontero/ley-universal-fractales-1-.git",
+        "Zenodo": "https://doi.org/10.5281/zenodo.14985096"
+    },
+    "archivos": [
+        {
+            "nombre": "LEY_FRACTAL_333333.docx",
+            "tipo": "documento",
+            "descripcion": "Versi\u00f3n refinada con validaciones cient\u00edficas."
+        },
+        {
+            "nombre": "Ley_Fractal_Tiempo_Cu\u00e1ntico_444.docx",
+            "tipo": "documento",
+            "descripcion": "Versi\u00f3n final con eliminaci\u00f3n de incertidumbres."
+        },
+        {
+            "nombre": "Ley_Fractal_Tiempo_Cu\u00e1ntico_Validaci\u00f3n_Final.docx",
+            "tipo": "documento",
+            "descripcion": "Consolidaci\u00f3n con validaci\u00f3n emp\u00edrica y computacional."
+        },
+        {
+            "nombre": "verificacion_modelo_fractal.txt",
+            "tipo": "texto",
+            "descripcion": "Resultados de la revisi\u00f3n matem\u00e1tica y ajuste con datos reales."
+        }
+    ],
+    "codigo_fuente": [
+        {
+            "lenguaje": "Python",
+            "descripcion": "C\u00f3digo para simulaciones fractales y ajuste de datos del CMB."
+        },
+        {
+            "lenguaje": "Julia",
+            "descripcion": "Modelado fractal optimizado para c\u00e1lculos num\u00e9ricos."
+        },
+        {
+            "lenguaje": "MATLAB",
+            "descripcion": "C\u00e1lculo de curvatura cu\u00e1ntica y estructuras fractales."
+        }
+    ],
+    "validaciones": {
+        "Ecuacion_Friedmann": "Matem\u00e1ticamente consistente con ajuste fractal.",
+        "Prueba_Chi_Cuadrado_CMB": "\u03c7\u00b2 = 5.11, p = 1.0000 (buen ajuste con datos).",
+        "Predicciones_LISA": "Ondas gravitacionales con exceso de potencia en f\u223c10^-3 Hz."
+    },
+    "publicacion": {
+        "revistas": [
+            "Physical Review Letters",
+            "Nature Physics",
+            "JHEP"
+        ],
+        "conferencias": [
+            "GR23",
+            "IAU Symposium 385",
+            "LISA Consortium"
+        ],
+        "revision_por_pares": "Pendiente, con estrategia de validaci\u00f3n abierta."
+    }
+}
