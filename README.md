@@ -15,10 +15,10 @@ La **Ley Fractal del Tiempo Cuántico** es un modelo cosmológico basado en estr
 📌 **Predicciones verificables**: Ondas gravitacionales en LISA con un umbral de detección SNR > 10.  
 📌 **Pruebas computacionales**: Código validado y replicable en múltiples entornos.  
 
+
+ (Descargar Archivo)(https://github.com/jonmontero/Ley-Fractal/blob/main/respaldo_total_ley_fractal%20(1).zip)
+ 
 ## 📂 Instalación y Uso  
 1️⃣ Clona el repositorio:  
 ```bash
 git clone https://github.com/jonmontero/ley-fractal-.git
-
-
-[Descargar archivo](https://github.com/jonmontero/Ley-Fractal/blob/main/respaldo_total_ley_fractal%20(1).zip)
