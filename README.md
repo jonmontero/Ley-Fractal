@@ -19,3 +19,6 @@ La **Ley Fractal del Tiempo Cuántico** es un modelo cosmológico basado en estr
 1️⃣ Clona el repositorio:  
 ```bash
 git clone https://github.com/jonmontero/ley-fractal-.git
+
+
+[Descargar archivo](https://github.com/jonmontero/Ley-Fractal/blob/main/respaldo_total_ley_fractal%20(1).zip)
